@@ -5,3 +5,4 @@ Solutions repo for COMP2521 25T0 tutorials (T14A, H14B).
 Organised by week:
 
 * [Week 1](week01): recursion
+* [Week 2](week02): time complexity analysis, ADTs, BSTs
