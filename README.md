@@ -6,3 +6,4 @@ Organised by week:
 
 * [Week 1](week01): recursion
 * [Week 2](week02): time complexity analysis, ADTs, BSTs
+* [Week 3](week03): AVL trees, graphs (i)
